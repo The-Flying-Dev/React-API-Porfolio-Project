@@ -1,3 +1,15 @@
+# An App built using the Game of Thrones Api from thronesapi.com, rendering characters on individual card components, included pagination with a load more button.
+<br />
+
+![screenhot]()
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
