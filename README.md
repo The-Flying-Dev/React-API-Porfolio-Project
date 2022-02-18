@@ -1,8 +1,9 @@
-# An App built using the Game of Thrones Api from thronesapi.com, rendering characters on individual card components, included pagination with a load more button.
+## An app built using the Game of Thrones Api from thronesapi.com, rendering characters on individual card components, included pagination with a load more button.
 <br />
 
-![screenhot]()
+![screenhot](https://github.com/The-Flying-Dev/React-API-Porfolio-Project/blob/main/src/img/got.png)
 
+<br />
 
 
 
